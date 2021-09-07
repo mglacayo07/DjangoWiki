@@ -8,7 +8,7 @@ The framework was named after the gypsy jazz guitarist Django Reinhardt
 * [Django documentation](https://docs.djangoproject.com/en/3.2/)
 * @jvadillo [django-15min-tutorial](https://github.com/jvadillo/django-15min-tutorial)
 
-## My personal wiki tutorial: [here](https://github.com/mglacayo07/DjangoWiki/wiki)
+## My personal wiki tutorial: [here](https://github.com/mglacayo07/DjangoWiki/wiki)
 
 
 
